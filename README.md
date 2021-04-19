@@ -3,6 +3,7 @@
 ## After cloning project please do the following
 
 - run `composer install`
+- create `.env` file
 - run `php artisan migrate`
 - run `php artisan db:seed`
 - run `php artisan serve`
